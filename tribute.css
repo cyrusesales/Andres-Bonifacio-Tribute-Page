@@ -1,0 +1,72 @@
+@import url(https://fonts.googleapis.com/css?family=Felipa);
+@import url(https://fonts.googleapis.com/css?family=Brush Script MT);
+
+#image {
+    height: 50%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+#img-caption {
+    text-align: center;
+}
+
+#tribute-info {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+ul {
+    text-align: justify;
+    
+}
+
+li {
+    line-height: 150%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.quote {
+    text-align: justify;
+    font-family: 'Brush Script MT';
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.addinfo {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#ul-div {
+    border-radius: 20px;
+    width: 600px;
+    height: 400px;
+    margin: 50px auto 50px auto;
+}
+
+.text-primary {
+    font-family: 'Felipa';
+    font-size: 50px;
+    font-weight: bold;
+}
+
+#tribute-info {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#img-caption {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
